@@ -4,6 +4,7 @@
 ---
 
 ## ✨ Features
+
 **Install Apps**: User can install apps.
 **Internet Check**: Checks if the user's internet is working or not.
 **Speed Check**: Checks user internet speed.
